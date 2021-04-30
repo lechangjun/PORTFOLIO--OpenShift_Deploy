@@ -1,4 +1,4 @@
-# openshift deploy
+# openshift deploy 실습 (rapa)
 
 프로젝트 목표
 다양한 PaaS 환경 구축
