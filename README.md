@@ -16,3 +16,5 @@ OpenShift, Ansible, CI/CD 학습
 
 
 상황2: 사용자가 증가하고 새로운 서비스를 기획하며 유연하게 자원을 활용할 수 있는 퍼블릭 클라우드로 전환, AWS에 가상화 환경 구축 및 Ansible을 통한 웹서비스 배포 자동화
+
+※ Reference github address : https://github.com/docker/docker-install/blob/master/LICENSE
