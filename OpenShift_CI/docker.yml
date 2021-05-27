@@ -1,0 +1,13 @@
+version: '3.1'
+
+services:
+  mariadb:
+    image: mariadb:10.3
+    container_name: mariadb-test
+    environment:
+      MYSQL_ROOT_PASSWORD: password
+      MYSQL_DATABASE: my_db 
+      MYSQL_USER: jinnyjinnyjinjin
+      MYSQL_PASSWORD: password
+    ports:
+      - 3306:3306
