@@ -14,8 +14,11 @@
 클라이언트: 반려동물 커뮤니티 운영
 
 *  프로젝트 구성
+
 ** 1단계: VM + WEB + DB
+
 ** 2단계: AWS + WEB + DB + Ansible
+
 ** 3단계: OpenShift + Web Containerization + DB + CI/CD
 
 
