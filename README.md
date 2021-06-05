@@ -30,6 +30,26 @@
 
  * 완성3: 3단계: OpenShift + Web Containerization + DB + CI 환경 
 
-## 🔥 사진
+# 📕 자료
+## ( ⚆ _ ⚆ ) 프로젝트 명
+![compaas (1) pptx](https://user-images.githubusercontent.com/68671394/120903728-b2600600-c5fc-11eb-910e-5d7428dec9da.png)
+
+## (-᷅_-᷄) 팀소개
+![compaas (1) pptx-2](https://user-images.githubusercontent.com/68671394/120903823-3dd99700-c5fd-11eb-90ae-dbe96c49ff2f.png)
+
+## ❛◡ુ❛ 일정
+<img width="953" alt="스크린샷 2021-06-05 오후 12 39 03" src="https://user-images.githubusercontent.com/68671394/120903838-5d70bf80-c5fd-11eb-9abf-4f6637bac51b.png">
+
+## ✪‿✪ 이창준 -> 업무
+![엔서블 자료 pptxㅇ](https://user-images.githubusercontent.com/68671394/120903854-81cc9c00-c5fd-11eb-8c82-6b9adc1e80af.jpg)
+![엔서블 자료 pptx-2](https://user-images.githubusercontent.com/68671394/120903855-842ef600-c5fd-11eb-999a-eb092cf49992.jpg)
+![엔서블 자료 pptx](https://user-images.githubusercontent.com/68671394/120903857-85f8b980-c5fd-11eb-9e05-aeac55772eed.jpg)
+
+
+## (¬‿¬) 공통업무
+<img width="952" alt="스크린샷 2021-06-05 오후 12 39 36" src="https://user-images.githubusercontent.com/68671394/120903882-be989300-c5fd-11eb-938a-bf2c52d02a1a.png">
+<img width="946" alt="스크린샷 2021-06-05 오후 12 39 50" src="https://user-images.githubusercontent.com/68671394/120903886-c0625680-c5fd-11eb-9d40-f5351227fb92.png">
 
  ※ Reference github address : https://github.com/docker/docker-install
+                             https://www.openshift.com
+                            
