@@ -30,7 +30,7 @@
 
  * 완성3: 3단계: OpenShift + Web Containerization + DB + CI 환경 
 
-# 📕 자료
+# 📕 프로젝트 
 ## ( ⚆ _ ⚆ ) 프로젝트 명
 ![compaas (1) pptx](https://user-images.githubusercontent.com/68671394/120903728-b2600600-c5fc-11eb-910e-5d7428dec9da.png)
 
