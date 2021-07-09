@@ -1,4 +1,4 @@
-# ⚙️ openshift 공부 (rapa) ⚙️
+# ⚙️ openshift 공부 (rapa) 
 
 * 프로젝트 목표
 다양한 PaaS 환경 구축
