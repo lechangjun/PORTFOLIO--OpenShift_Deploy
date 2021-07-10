@@ -30,14 +30,12 @@
 
  * 완성3: 3단계: OpenShift + Web Containerization + DB + CI 환경 
 
-# 📕 프로젝트 소개
-## ( ⚆ _ ⚆ ) 프로젝트 명
+# 📕 PORTFOLI 소개
+## ( ⚆ _ ⚆ ) PORTFOLI 소개
 ![compaas (1) pptx](https://user-images.githubusercontent.com/68671394/120903728-b2600600-c5fc-11eb-910e-5d7428dec9da.png)
 
-## (-᷅_-᷄) 팀소개
 ![compaas (1) pptx-2](https://user-images.githubusercontent.com/68671394/120903823-3dd99700-c5fd-11eb-90ae-dbe96c49ff2f.png)
 
-## ❛◡❛ 일정
 <img width="953" alt="스크린샷 2021-06-05 오후 12 39 03" src="https://user-images.githubusercontent.com/68671394/120903838-5d70bf80-c5fd-11eb-9abf-4f6637bac51b.png">
 
 ## ✪‿✪ 이창준 -> 업무
