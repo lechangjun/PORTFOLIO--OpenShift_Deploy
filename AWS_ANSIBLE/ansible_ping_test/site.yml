@@ -1,0 +1,10 @@
+---
+- name: connect test
+  hosts: 
+    - sources
+  remote_user: "{{ user }}"
+  gather_facts: no
+
+  roles:
+    - test_connect
+
