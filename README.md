@@ -48,7 +48,7 @@
 <img width="952" alt="스크린샷 2021-06-05 오후 12 39 36" src="https://user-images.githubusercontent.com/68671394/120903882-be989300-c5fd-11eb-938a-bf2c52d02a1a.png">
 <img width="946" alt="스크린샷 2021-06-05 오후 12 39 50" src="https://user-images.githubusercontent.com/68671394/120903886-c0625680-c5fd-11eb-9d40-f5351227fb92.png">
 
-## ython_System_Management](https://github.com/lechangjun/Python_System_Management)
+## [ython_System_Management](https://github.com/lechangjun/Python_System_Management)
 
  ※ Reference  https://www.openshift.com
                             
