@@ -39,6 +39,14 @@
 <img width="953" alt="스크린샷 2021-06-05 오후 12 39 03" src="https://user-images.githubusercontent.com/68671394/120903838-5d70bf80-c5fd-11eb-9abf-4f6637bac51b.png">
 
 ## ✪‿✪ 이창준 -> 업무
+
+
+-[2단계: AWS 환경 자동화]
+
+
+-[3단계:OpenShift 구축 및 web 배포]
+
+
 ![엔서블 자료 pptxㅇ](https://user-images.githubusercontent.com/68671394/120903854-81cc9c00-c5fd-11eb-8c82-6b9adc1e80af.jpg)
 ![엔서블 자료 pptx-2](https://user-images.githubusercontent.com/68671394/120903855-842ef600-c5fd-11eb-999a-eb092cf49992.jpg)
 ![엔서블 자료 pptx](https://user-images.githubusercontent.com/68671394/120903857-85f8b980-c5fd-11eb-9e05-aeac55772eed.jpg)
