@@ -12,8 +12,7 @@
 
 
 ![image](https://user-images.githubusercontent.com/68671394/133376442-39935319-5f7b-4ac6-966f-887e065fa008.png)
-
-***
+=============================================================
 ### 접속
 [1.Lamp Ubuntu 작업](https://github.com/lechangjun/PORTFOLIO--OpenShift_Deploy/blob/main/%EC%BD%94%EB%93%9C/ansible_playbooks/ansible-playbooks/lamp_ubuntu1804/playbook.yml)
 
