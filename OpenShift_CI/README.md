@@ -13,10 +13,10 @@
 ## 배포
 
 
-[deploy.yml](https://github.com/lechangjun/PORTFOLIO--OpenShift_Deploy/blob/main/OpenShift_CI/deploy.yml)
+[코드 -> deploy.yml](https://github.com/lechangjun/PORTFOLIO--OpenShift_Deploy/blob/main/OpenShift_CI/deploy.yml)
 
 
-[docker.yml](https://github.com/lechangjun/PORTFOLIO--OpenShift_Deploy/blob/main/OpenShift_CI/docker.yml)
+[코드 -> docker.yml](https://github.com/lechangjun/PORTFOLIO--OpenShift_Deploy/blob/main/OpenShift_CI/docker.yml)
 
 
 ※ Reference  https://www.openshift.com
