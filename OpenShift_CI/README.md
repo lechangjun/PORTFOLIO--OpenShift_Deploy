@@ -10,7 +10,9 @@
 ![image](https://user-images.githubusercontent.com/68671394/133372960-6549fa3c-d750-43d9-80fb-25ca02874847.png)
 ![image](https://user-images.githubusercontent.com/68671394/133373084-2a7c0ada-efde-4c6d-8d8c-b52813820859.png)
 
+## 배포
 
-
+[deploy.yml](https://github.com/lechangjun/PORTFOLIO--OpenShift_Deploy/blob/main/OpenShift_CI/deploy.yml)
+[docker.yml](https://github.com/lechangjun/PORTFOLIO--OpenShift_Deploy/blob/main/OpenShift_CI/docker.yml)
  ※ Reference  https://www.openshift.com
                             
