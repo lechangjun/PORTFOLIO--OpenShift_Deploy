@@ -41,10 +41,10 @@
 ## ✪‿✪ 이창준 -> 업무
 
 
--[2단계: AWS 환경 자동화](https://github.com/lechangjun/PORTFOLIO--OpenShift_Deploy/tree/main/%EC%BD%94%EB%93%9C)
+- [2단계: AWS 환경 자동화](https://github.com/lechangjun/PORTFOLIO--OpenShift_Deploy/tree/main/%EC%BD%94%EB%93%9C)
 
 
--[3단계:OpenShift 구축 및 web 배포](https://github.com/lechangjun/PORTFOLIO--OpenShift_Deploy/tree/main/OpenShift_CI)
+- [3단계:OpenShift 구축 및 web 배포](https://github.com/lechangjun/PORTFOLIO--OpenShift_Deploy/tree/main/OpenShift_CI)
 
 
 ![엔서블 자료 pptxㅇ](https://user-images.githubusercontent.com/68671394/120903854-81cc9c00-c5fd-11eb-8c82-6b9adc1e80af.jpg)
