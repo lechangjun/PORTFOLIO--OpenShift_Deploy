@@ -19,10 +19,6 @@
 
 [2.Setup_Ubuntu 작업](https://github.com/lechangjun/PORTFOLIO--OpenShift_Deploy/blob/main/%EC%BD%94%EB%93%9C/ansible_playbooks/ansible-playbooks/setup_ubuntu1804/playbook.yml)
 
-
-※ packer로 ec2 생성이 되면 적용 시켜야 한다.
-
-
 ***
  ※ Reference  https://www.openshift.com
                             
