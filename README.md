@@ -58,5 +58,12 @@
 
 ## [Python_System_Management](https://github.com/lechangjun/Python_System_Management)
 ## [서버 모니터링 자료](https://github.com/lechangjun/STUDY_Monitoring)
+🦀 서비스 성능 향상을 위한 서버 부하 및 리소스 모니터링 방법
+📝 ML 모델링 및 최적화 시뮬레이션
+대규모 서비스를 지탱하는 기술, 서버/인프라를 지탱하는 기술 을 읽으며, 리소스 모니터링에 관련하여 정리 페이지 입니다.
+대용량 데이터 서비스를 운영하기 위해서는 서버 부하의 원인을 파악하고, 이를 해결하는 목적으로 페이지를 생성 했습니다.
+주로 하는 대용량 데이터를 처리할 수 있는 ML 모델링 및 최적화 시뮬레이션 중요한 이슈 기준으로 정리 하게 되었습니다.
+
+
  ※ Reference  https://www.openshift.com
                             
