@@ -57,6 +57,7 @@
 <img width="946" alt="스크린샷 2021-06-05 오후 12 39 50" src="https://user-images.githubusercontent.com/68671394/120903886-c0625680-c5fd-11eb-9d40-f5351227fb92.png">
 
 ## [Python_System_Management](https://github.com/lechangjun/Python_System_Management)
+![image](https://user-images.githubusercontent.com/68671394/133748896-a8284ca1-782e-4a18-a7f0-0e2019dfdccc.png)
 ## [서버 모니터링 자료](https://github.com/lechangjun/STUDY_Monitoring)
 
 
