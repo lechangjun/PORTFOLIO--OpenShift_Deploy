@@ -58,8 +58,10 @@
 
 
 # /ᐠ. ᴗ.ᐟ\  보충  (서버 모니터링 && 관리 코드)
-## [Python_System_Management](https://github.com/lechangjun/Python_System_Management)
-![image](https://user-images.githubusercontent.com/68671394/133748896-a8284ca1-782e-4a18-a7f0-0e2019dfdccc.png)
+## [Python_System_Management 코드](https://github.com/lechangjun/Python_System_Management)
+
+![image](https://user-images.githubusercontent.com/68671394/133749953-3767178c-f0ed-41bd-ab55-02fa9d2bc41c.png)
+
 ## [서버 모니터링 자료](https://github.com/lechangjun/STUDY_Monitoring)
 
 
